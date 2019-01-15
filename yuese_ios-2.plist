@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.h5.dmaker.com.cn/MoonLive.ipa</string>
+					<string>http://172.16.1.150:8080/test/WaterMark.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.huihui.yuese1</string>
+				<string>com.weixiaoneng.watermark.ios</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>月涩</string>
+				<string>水印相机</string>
 			</dict>
 		</dict>
 	</array>
